@@ -1,0 +1,9 @@
+[alias]
+	co = checkout
+	st = status
+	cia = commit -a -m
+	rv = remote -v
+	sub = sumbodule
+[user]
+email = jrod23uhs@gmail.com
+name = jared
